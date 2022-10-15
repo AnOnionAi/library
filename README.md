@@ -1,2 +1,2 @@
 # library
-Collection of Python Notebooks In Ai. 
+Collection of Python Ai Colabs. 
