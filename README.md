@@ -8,6 +8,8 @@ TensorFlow, Keras & JAX Notebooks: In addition to PyTorch, find models implement
 
 Continuous Updates: The field of AI is ever-evolving, and so is our collection. We add new and relevant notebooks as advancements are made. While we strive for quality, the content varies as it is community-driven.
 
+Many image based transformer models contain the logic of state of the art diffusion models. 
+
 ## Contributing:
 We encourage contributions that enhance the library's diversity and quality. If you have a valuable Colab notebook related to AI transformers, please share it with the community:
 
