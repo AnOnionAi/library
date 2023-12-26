@@ -11,7 +11,7 @@ Continuous Updates: The field of AI is ever-evolving, and so is our collection. 
 ## Contributing:
 We encourage contributions that enhance the library's diversity and quality. If you have a valuable Colab notebook related to AI transformers, please share it with the community:
 
-# Fork the Repository: Fork 'Library of Transformers AI' to your account.
+Fork the Repository: Fork 'Library of Transformers AI' to your account.
 Add Your Notebook: Include your detailed and well-documented Colab in the designated directory.
 Submit a Pull Request: Open a pull request with a concise explanation of your addition and its impact.
 Usage:
