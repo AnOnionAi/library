@@ -1,8 +1,8 @@
-# Library of Transformers AI
-Welcome to the Library of Transformers AI — a curated collection of Python AI notebooks, focusing on the innovative field of transformer models. This repository is dedicated to providing a comprehensive resource for learning and experimentation with various AI transformer architectures implemented in a range of frameworks. Contains image based transformer models contain the logic of state of the art diffusion models and the leading reinforcement learning algorithm for games: Monte Carlo and Muzero. 
+# Library of AI
+Welcome to the Library of AI — a curated collection of Python AI notebooks, focusing on the innovative field of transformer models. This repository is dedicated to providing a comprehensive resource for learning and experimentation with various AI transformer architectures implemented in a range of frameworks. In addition, contains image based transformer models with diffusion models and the leading reinforcement learning algorithm for games: Monte Carlo and Muzero. 
 
 ## Repository Contents:
-Transformers in PyTorch: Our repository features a wide selection of transformer models in PyTorch, allowing for deep exploration and research in a flexible environment.
+Transformers in PyTorch: Our repository features a wide selection of transformer models in PyTorch, allowing for deep exploration and research in a flexible environment. Prefered Fraemwork.
 
 TensorFlow, Keras & JAX Notebooks: In addition to PyTorch, find models implemented in TensorFlow for robustness, Keras for simplicity, and JAX for performance optimization.
 
